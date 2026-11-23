@@ -2,7 +2,7 @@
 
 **[Play the game online](https://yuanpan2025.github.io/DHGames/)**
 
-An interactive browser game for exploring how classification systems work—and what gets lost when real-world objects are turned into digital categories.
+An interactive browser game for exploring how classification systems work, and what gets lost when real-world objects are turned into digital categories.
 
 > “Taxonomies are essentially sorting exercises—some categories make more sense than others depending on context, purpose, and what gets lost when real objects are digitized.”
 
